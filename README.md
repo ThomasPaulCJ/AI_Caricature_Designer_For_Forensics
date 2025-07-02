@@ -102,16 +102,25 @@ Frontend should run on: http://localhost:3000
 
 ⚡ Inference speedup with ONNX or optimized SD engines
 
-## 🤝 Contributing
+## 👥 Contributors & Ownership
 
-Got improvements in image quality, UI/UX, or prompt parsing?
-Open a PR or drop your ideas in an issue. All contributions welcome.
+This project was collaboratively developed and maintained by:
+
+- [**Manu Mathew**](https://github.com/manu-mathew1)  
+- [**Thomas Paul C J**](https://github.com/thomaspaulcj)  
+- [**Nayif Nazar**](https://github.com/nayifnazar)  
+- [**Vidhusankar C H**](https://github.com/vidhusankar-hozo)
+
+All four contributors share equal ownership and recognition for the design, development, and vision of Identify.ai.
+
+Please credit **all authors** when referencing, reusing, or building upon this project.
+
 
 ## 📄 License
 
 This project is licensed under the MIT License.
 
-Note: Stable Diffusion and third-party models have their own licenses. Use them responsibly.
+Note: Stable Diffusion and third-party models have their own licenses. Please review and comply with them before use.
 
 ## ⚠️ Disclaimer
 
@@ -120,4 +129,4 @@ This tool is for educational and experimental purposes only. It is not intended 
 > ⚠️ **Important Notice**  
 > This project is protected under copyright.  
 > Do **NOT** copy, reuse, deploy, or distribute any part of this codebase without explicit permission.  
-> All rights reserved © 2025 Thomas Paul CJ
+> All rights reserved ©️ 2025 Manu Mathew, Thomas Paul CJ, Nayif Nazar, and Vidhusankar CH.
